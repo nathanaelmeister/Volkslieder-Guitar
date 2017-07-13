@@ -14,5 +14,6 @@ Melody, Chords, Lyrics and Verses remain untouched.
 * comments at the end of lines
 
 **Changes made to the *songname.ily*:**
-* ported to 2.18 with *convert.ly*
+* ported to 2.18 with *convert-ly*
 * reformatted and reinindented
+* added credits for Guitar-Version

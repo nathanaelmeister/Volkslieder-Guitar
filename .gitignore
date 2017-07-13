@@ -1,0 +1,9 @@
+*.pdf
+*.ps
+*.midi
+*.mid
+*.log
+*~
+*.sh
+*.txt
+*.py
