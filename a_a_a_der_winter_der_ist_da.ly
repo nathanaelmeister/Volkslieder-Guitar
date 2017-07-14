@@ -1,7 +1,8 @@
 % Dieses Notenblatt wurde erstellt von Michael Nausch
 % Kontakt: michael@nausch.org (PGP public-key 0x2384C849) 
+% Guitar-Version by: Nathanael Meister (nathanaelmeister@gmx.de)
 
-\version "2.18.0"
+\version "2.18.2"
 
 \include "predefined-guitar-fretboards.ly"
 
